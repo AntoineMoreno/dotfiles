@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = antoine.moreno@icloud.com
+	name = Antoine Moreno
